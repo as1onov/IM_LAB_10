@@ -1,0 +1,24 @@
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab10.FootballManager\bin\Debug\Lab10.FootballManager.exe.config
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab10.FootballManager\bin\Debug\Lab10.FootballManager.exe
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab10.FootballManager\bin\Debug\Lab10.FootballManager.pdb
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.ChampForm.resources
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.MainForm.resources
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.exe
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.pdb
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.ResultsForm.resources
+C:\Users\umid\source\repos\Lab10.FootballManager\bin\Debug\Lab10.FootballManager.exe.config
+C:\Users\umid\source\repos\Lab10.FootballManager\bin\Debug\Lab10.FootballManager.exe
+C:\Users\umid\source\repos\Lab10.FootballManager\bin\Debug\Lab10.FootballManager.pdb
+C:\Users\umid\source\repos\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.csproj.AssemblyReference.cache
+C:\Users\umid\source\repos\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.ChampForm.resources
+C:\Users\umid\source\repos\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.MainForm.resources
+C:\Users\umid\source\repos\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.Properties.Resources.resources
+C:\Users\umid\source\repos\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.ResultsForm.resources
+C:\Users\umid\source\repos\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.csproj.GenerateResource.cache
+C:\Users\umid\source\repos\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.csproj.CoreCompileInputs.cache
+C:\Users\umid\source\repos\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.exe
+C:\Users\umid\source\repos\Lab10.FootballManager\obj\Debug\Lab10.FootballManager.pdb
